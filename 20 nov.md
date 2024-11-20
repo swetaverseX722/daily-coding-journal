@@ -1,4 +1,4 @@
-# Coding Journal - November 21, 2024
+# Coding Journal - November 20, 2024
 
 ## Highlights of the Day:
 - Solved **1 LeetCode problem** to keep up with coding practice.
